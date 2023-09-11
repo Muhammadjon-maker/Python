@@ -1,0 +1,1 @@
+find = input("Morse kiriting!")
